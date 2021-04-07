@@ -1,0 +1,24 @@
+.center {
+    
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+.search {
+    color: blue;
+}
+.imglink {
+  position: absolute;
+  top: 8px;
+  right: 150px;
+}
+.advlink {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+
+}
